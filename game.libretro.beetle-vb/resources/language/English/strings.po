@@ -21,9 +21,13 @@ msgid "Settings"
 msgstr ""
 
 msgctxt "#30001"
-msgid "Anaglyph preset (restart)"
+msgid "3D mode (restart)"
 msgstr ""
 
 msgctxt "#30002"
+msgid "Anaglyph preset (restart)"
+msgstr ""
+
+msgctxt "#30003"
 msgid "Palette (restart)"
 msgstr ""
